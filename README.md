@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">Web developer from Azerbaijan</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img width="300px" height="200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elminn007&label=Profile%20views&color=0e75b6&style=flat" alt="elminn007" /> </p>
